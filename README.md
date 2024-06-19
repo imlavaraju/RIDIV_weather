@@ -22,7 +22,7 @@ Clone the repository to your local machine.
 ### Step 3: Setup and Run the Application
 
 1. Navigate to the cloned project directory using the command `cd RIDIV_weather`.
-2. Install the necessary Node packages using the command `npm install`. after `npm i axios 
+2. Install the necessary Node packages using the command `npm install`. after `npm i axios json-server`
 3. Start the JSON server by running `json-server --watch db.json --port 5000` in one terminal.
 4. Open another terminal, navigate to the project directory (if not already there), and start the application using `npm start`.
 
