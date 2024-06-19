@@ -12,7 +12,7 @@ Clone the repository to your local machine.
 
 ### Step 2: Obtain API Key from OpenWeatherMap
 
-1. Go to the OpenWeatherMap website at [https://home.openweathermap.org/myservices](https://home.openweathermap.org/myservices).
+1. Go to the OpenWeatherMap website at [Click Here](https://home.openweathermap.org/myservices).
 2. Sign up and log in to the website. 
 3. Go to your profile and navigate to "My API Keys".
 4. Generate a new API key (choose the free version).
